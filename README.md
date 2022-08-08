@@ -2,7 +2,6 @@
 
 # Fraude en TC
 
-¡Bienvenidos al segundo dataset del Hackathon! Nos ponemos ahora en la piel de un Junior Data Scientist trabajando para la financiera Plasma S.A., dedicada a emitir las tarjetas AMEX en distintos países de latinoamerica. 
 
 ## Descripción del Problema
 
